@@ -1,0 +1,5 @@
+print("pg mark statement")
+print("algebra:78")
+print("real analysics:76")
+print("complex:88")
+print("real algebra:87")
