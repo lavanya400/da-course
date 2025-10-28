@@ -1,0 +1,7 @@
+print("12 mark statement")
+print("tamil:152")
+print("english:143")
+print("maths:167")
+print("biology:134")
+print("chemistry:154")
+print("pysicsh:176")
