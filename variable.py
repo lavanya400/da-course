@@ -1,0 +1,26 @@
+name="p.lavanya"
+age=26
+height=152
+weight=68
+city="batlagundu"
+is_student="false"
+marks=87
+pi=3.14
+school_name="govt arts college for women"
+print(name)
+print(age)
+print(height)
+print(weight)
+print(city)
+print(is_student)
+print(marks)
+print(pi)
+print(school_name)
+print(type(name))
+print(type(age))
+print(type(pi))
+print(type(is_student))
+my_number=10
+print(my_number,type(my_number))
+my_text="hello"
+print(my_text,type(my_text))
