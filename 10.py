@@ -1,0 +1,6 @@
+print("10 MARK STATEMENT")
+print("TAMIL:89")
+print("ENGLISH:87")
+print("MATHS:98")
+print("SECINCE:95")
+print("SOCIAL SCIENCE:96")
